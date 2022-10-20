@@ -6,7 +6,7 @@
 
 😷 Sou cirurgiã-dentista de formação e desenvolvedora por paixão. 
 
-👩‍💻 Em 2015 realizei um intercâmbio na Irlanda e lá participei de um projeto que me fez me apaixonar pela tecnologia. 
+👩‍💻 Em 2014 realizei um intercâmbio na Irlanda e lá participei de um projeto que me fez me apaixonar pela tecnologia. 
 
 👩‍🎓 A partir de então comecei a estudar de forma autônoma, mas sentia falta de algo mais completo. Iniciei minha transição de carreira em 2022 
 através do bootcamp Full-Stack da Labenu e até então venho desenvolvendo minhas habilidades de Front-End e Back-End com esse time fantástico. 
@@ -25,9 +25,15 @@ o objetivo de trabalhar somente com tecnologia, que é o que faz meu coração v
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<br/>
+
 
 
 
 <div style="display: inline_block" align="center"><br>
-<h3>Obrigada pela visita!</h3>
+<h3>Obrigada pela visita! 😁 </h3> 
 </div>
+<div align="center">
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ju-marques)](https://github.com/ju-marques)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliamarquesr/)](https://www.linkedin.com/in/juliamarquesr/)
